@@ -1,18 +1,20 @@
 import sys
 
+# handle errors for improper amount of command line args
 if not (len(sys.argv) in [3,4]):
     print("Incorrect number of arguments entered, enter 2/3 arguments: the source file, then the destination file to be created/overwritten, then optionally a directory to make both paths relative to, e.g. ../data/dataset_1/")
     sys.exit()
 
 temp = []
 
+# use args to get file name and path
 in_file = sys.argv[1]
 out_file = sys.argv[2]
 pwd = ""
 if len(sys.argv) == 4:
     pwd = sys.argv[3]
 
-# read data of input file
+# read data from input file
 try:
     with open(pwd+in_file, 'r') as f_read:
         i = 0
@@ -22,6 +24,7 @@ try:
 except:
     print(f"filepath 1: '{in_file}' could not be found")
 
+# write data to output file
 try:
     with open(pwd+out_file, 'w') as f_write:
         i = 0

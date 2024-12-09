@@ -133,8 +133,6 @@ lin_y = np.linspace(0+b,max_x*m + b,100)
 # print regression statistics of graph
 print(f"\nm: {m}, b: {b}, res: {residuals}, r_squared: {r_squared}")
 
-# this order: addiction, distractability, depression
-
 # make the graph
 plt.scatter(x, y, alpha=25/len(x), color="blue")#, c=x, cmap=colormap, alpha=0.03)
 plt.plot(lin_x, lin_y, color='red')
