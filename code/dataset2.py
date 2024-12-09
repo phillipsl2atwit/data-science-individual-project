@@ -136,10 +136,10 @@ print(f"\nm: {m}, b: {b}, res: {residuals}, r_squared: {r_squared}")
 # this order: addiction, distractability, depression
 
 # make the graph
-plt.scatter(x, y, alpha=25/len(x), color="purple")#, c=x, cmap=colormap, alpha=0.03)
+plt.scatter(x, y, alpha=25/len(x), color="blue")#, c=x, cmap=colormap, alpha=0.03)
 plt.plot(lin_x, lin_y, color='red')
 plt.xlabel("Rough Amount of Time Spent on Social Media (Hours)")
-plt.ylabel("Distractibility Score")
-plt.title("Fig 6: Correlation Between Time on Social Media and Distractibility Score")
+plt.ylabel("Depression Score")
+plt.title("Fig 3: Correlation Between Time on Social Media and Depression Score")
 plt.savefig("temp2",transparent=True)
 plt.show()

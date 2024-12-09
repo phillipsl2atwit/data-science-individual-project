@@ -1,0 +1,181 @@
+social_media_platform,y_variable,r_squared,mean,std
+ALL,1. What is your age?,0.1307294386386718,26.13659043659044,9.904797973018525
+ALL,Number of different social media platforms used,0.061668629747238746,4.268191268191268,1.9698366419195554
+ALL,9. How often do you find yourself using Social media without a specific purpose?,0.1548676327182783,3.553014553014553,1.0951586229179862
+ALL,10. How often do you get distracted by Social media when you are busy doing something?,0.14502224724550838,3.32016632016632,1.3267552111135723
+ALL,11. Do you feel restless if you haven't used Social media in a while?,0.16004647019338059,2.5883575883575882,1.2557516758097382
+ALL,"'Addiction' score, combined scores of columns 9, 10, and 11",0.2411779743603304,9.461538461538462,2.9293618831922257
+ALL,"12. On a scale of 1 to 5, how easily distracted are you?",0.11732293840744101,3.3492723492723493,1.1743288836919898
+ALL,"13. On a scale of 1 to 5, how much are you bothered by worries?",0.10643572491857978,3.5592515592515594,1.2820213141034966
+ALL,14. Do you find it difficult to concentrate on things?,0.10348130218774554,3.2453222453222454,1.3457038556279473
+ALL,"'Distractability' score, combined scores of columns 10, 12, and 14",0.16601176169432097,9.914760914760915,3.2897197643369918
+ALL,"15. On a scale of 1-5, how often do you compare yourself to other successful people through the use of social media?",0.040244310080282286,2.8316008316008316,1.4063707641726184
+ALL,"16. Following the previous question, how do you feel about these comparisons, generally speaking?",0.002599837150657369,2.7754677754677757,1.0553797631126793
+ALL,17. How often do you look to seek validation from features of social media?,0.011930155622493666,2.455301455301455,1.246441071898362
+ALL,"'Validation-Seeking' score, combined scores of columns 15, 16, and 17",0.03440121156696285,8.062370062370062,2.545277677906369
+ALL,18. How often do you feel depressed or down?,0.10922286112465296,3.2557172557172556,1.3116674391747405
+ALL,"19. On a scale of 1 to 5, how frequently does your interest in daily activities fluctuate?",0.08550235391994021,3.1704781704781704,1.255359230810058
+ALL,"'Depression' score, combined scores of columns 18 and 19",0.1300952248451107,6.426195426195426,2.2195642740858412
+ALL,"20. On a scale of 1 to 5, how often do you face issues regarding sleep?",0.03050595994718397,3.2016632016632016,1.4600990122769482
+Facebook,1. What is your age?,0.14868081385777931,26.14914004914005,9.510040885236135
+Facebook,Number of different social media platforms used,0.058112404859708144,4.513513513513513,1.9002622835103269
+Facebook,9. How often do you find yourself using Social media without a specific purpose?,0.13683442926019607,3.5823095823095823,1.0757462742974926
+Facebook,10. How often do you get distracted by Social media when you are busy doing something?,0.13288523065978175,3.398034398034398,1.2997055303595666
+Facebook,11. Do you feel restless if you haven't used Social media in a while?,0.16011532747699575,2.6412776412776413,1.233865438554107
+Facebook,"'Addiction' score, combined scores of columns 9, 10, and 11",0.23451395381475437,9.621621621621621,2.819609174361199
+Facebook,"12. On a scale of 1 to 5, how easily distracted are you?",0.1380008313970833,3.3636363636363638,1.1731871562716798
+Facebook,"13. On a scale of 1 to 5, how much are you bothered by worries?",0.12055132924723455,3.6068796068796067,1.2725612482189774
+Facebook,14. Do you find it difficult to concentrate on things?,0.11038636781584876,3.2776412776412776,1.3425804261036278
+Facebook,"'Distractability' score, combined scores of columns 10, 12, and 14",0.17072390035181417,10.039312039312039,3.281011936910607
+Facebook,"15. On a scale of 1-5, how often do you compare yourself to other successful people through the use of social media?",0.03482250294891753,2.9164619164619165,1.397751533458914
+Facebook,"16. Following the previous question, how do you feel about these comparisons, generally speaking?",0.0027930818205254004,2.7444717444717446,1.0508275216037388
+Facebook,17. How often do you look to seek validation from features of social media?,0.005007765091484484,2.5282555282555284,1.233664823949469
+Facebook,"'Validation-Seeking' score, combined scores of columns 15, 16, and 17",0.026802052217558936,8.18918918918919,2.4657020432674046
+Facebook,18. How often do you feel depressed or down?,0.12343550300741235,3.3144963144963144,1.2942363934475065
+Facebook,"19. On a scale of 1 to 5, how frequently does your interest in daily activities fluctuate?",0.08498670596071556,3.171990171990172,1.2559056443930803
+Facebook,"'Depression' score, combined scores of columns 18 and 19",0.13591163221579927,6.486486486486487,2.2265296073866225
+Facebook,"20. On a scale of 1 to 5, how often do you face issues regarding sleep?",0.05291518211373869,3.253071253071253,1.4322828129765646
+Twitter,1. What is your age?,0.1767234809720185,26.885496183206108,10.23662129774746
+Twitter,Number of different social media platforms used,0.06482028702696985,5.893129770992366,1.7916341144199568
+Twitter,9. How often do you find yourself using Social media without a specific purpose?,0.17877879310736555,3.5419847328244276,1.0208478887575043
+Twitter,10. How often do you get distracted by Social media when you are busy doing something?,0.11715720305228627,3.1755725190839694,1.2569253412368104
+Twitter,11. Do you feel restless if you haven't used Social media in a while?,0.11628756195918932,2.549618320610687,1.1135099615510926
+Twitter,"'Addiction' score, combined scores of columns 9, 10, and 11",0.24223471685839615,9.267175572519085,2.522643795161317
+Twitter,"12. On a scale of 1 to 5, how easily distracted are you?",0.034986631090264564,3.33587786259542,1.1432556099414546
+Twitter,"13. On a scale of 1 to 5, how much are you bothered by worries?",0.07705811797563089,3.6793893129770994,1.1996639196838135
+Twitter,14. Do you find it difficult to concentrate on things?,0.06998380375341795,3.1603053435114505,1.246777794395377
+Twitter,"'Distractability' score, combined scores of columns 10, 12, and 14",0.10928943855259987,9.67175572519084,2.9459319812310234
+Twitter,"15. On a scale of 1-5, how often do you compare yourself to other successful people through the use of social media?",0.015826738548959773,2.6564885496183206,1.317938433887465
+Twitter,"16. Following the previous question, how do you feel about these comparisons, generally speaking?",0.013737240213611002,2.7480916030534353,0.9834004833702544
+Twitter,17. How often do you look to seek validation from features of social media?,0.00039825111944902236,2.312977099236641,1.1464113903008086
+Twitter,"'Validation-Seeking' score, combined scores of columns 15, 16, and 17",0.0011998239863154625,7.717557251908397,2.1196096758648584
+Twitter,18. How often do you feel depressed or down?,0.09265682933391972,3.2519083969465647,1.1744318844236414
+Twitter,"19. On a scale of 1 to 5, how frequently does your interest in daily activities fluctuate?",0.01702401705268275,2.969465648854962,1.1184704065583124
+Twitter,"'Depression' score, combined scores of columns 18 and 19",0.07467792888143088,6.221374045801527,1.842211069190639
+Twitter,"20. On a scale of 1 to 5, how often do you face issues regarding sleep?",0.020760196725933544,3.2061068702290076,1.412688181084453
+Instagram,1. What is your age?,0.08587869190970088,24.367688022284124,8.306366518419741
+Instagram,Number of different social media platforms used,0.017955474651203174,4.952646239554317,1.7265701634887727
+Instagram,9. How often do you find yourself using Social media without a specific purpose?,0.09742034203574268,3.6406685236768803,1.0351028901454744
+Instagram,10. How often do you get distracted by Social media when you are busy doing something?,0.11066473616897632,3.479108635097493,1.2728067757821557
+Instagram,11. Do you feel restless if you haven't used Social media in a while?,0.1220203170396833,2.6740947075208914,1.2251645114705925
+Instagram,"'Addiction' score, combined scores of columns 9, 10, and 11",0.1828116386190407,9.793871866295264,2.7468627423091116
+Instagram,"12. On a scale of 1 to 5, how easily distracted are you?",0.08060259703026607,3.4846796657381613,1.1290858803656674
+Instagram,"13. On a scale of 1 to 5, how much are you bothered by worries?",0.05166381503673079,3.746518105849582,1.1988076105022372
+Instagram,14. Do you find it difficult to concentrate on things?,0.0641920407658213,3.3871866295264623,1.2635682093838545
+Instagram,"'Distractability' score, combined scores of columns 10, 12, and 14",0.11817805624574862,10.350974930362117,3.095408208023923
+Instagram,"15. On a scale of 1-5, how often do you compare yourself to other successful people through the use of social media?",0.025254368818222628,2.933147632311978,1.3967685978032143
+Instagram,"16. Following the previous question, how do you feel about these comparisons, generally speaking?",5.443199051002878e-05,2.752089136490251,1.0461974295956615
+Instagram,17. How often do you look to seek validation from features of social media?,0.002137160871516497,2.543175487465181,1.2231298953062564
+Instagram,"'Validation-Seeking' score, combined scores of columns 15, 16, and 17",0.014145596079380818,8.22841225626741,2.4066239804439977
+Instagram,18. How often do you feel depressed or down?,0.061799503562612546,3.395543175487465,1.2398140631112893
+Instagram,"19. On a scale of 1 to 5, how frequently does your interest in daily activities fluctuate?",0.03843909458262651,3.2757660167130918,1.2101004405300586
+Instagram,"'Depression' score, combined scores of columns 18 and 19",0.06772260864929824,6.671309192200557,2.096033184500741
+Instagram,"20. On a scale of 1 to 5, how often do you face issues regarding sleep?",0.014131060468948964,3.298050139275766,1.4464524224112674
+YouTube,1. What is your age?,0.13474458397172306,25.865776699029126,9.662140540979097
+YouTube,Number of different social media platforms used,0.0606723037427197,4.657766990291262,1.8026040667419543
+YouTube,9. How often do you find yourself using Social media without a specific purpose?,0.12517696209365736,3.5946601941747574,1.0489341011758895
+YouTube,10. How often do you get distracted by Social media when you are busy doing something?,0.14148787777573424,3.342233009708738,1.3115849983292727
+YouTube,11. Do you feel restless if you haven't used Social media in a while?,0.1572774686729158,2.592233009708738,1.2321493826019154
+YouTube,"'Addiction' score, combined scores of columns 9, 10, and 11",0.22979616545601123,9.529126213592233,2.8226934416658724
+YouTube,"12. On a scale of 1 to 5, how easily distracted are you?",0.11846915649493106,3.3519417475728157,1.1741227324182988
+YouTube,"13. On a scale of 1 to 5, how much are you bothered by worries?",0.0790848116818954,3.6019417475728157,1.258677112796033
+YouTube,14. Do you find it difficult to concentrate on things?,0.09689902476877488,3.2402912621359223,1.3340310154257375
+YouTube,"'Distractability' score, combined scores of columns 10, 12, and 14",0.16000877635064037,9.934466019417476,3.2817643337158144
+YouTube,"15. On a scale of 1-5, how often do you compare yourself to other successful people through the use of social media?",0.03324781264887777,2.854368932038835,1.4084196679173893
+YouTube,"16. Following the previous question, how do you feel about these comparisons, generally speaking?",0.0008379054566337585,2.779126213592233,1.0414940787680764
+YouTube,17. How often do you look to seek validation from features of social media?,0.004054990828611715,2.4611650485436893,1.2231372212795124
+YouTube,"'Validation-Seeking' score, combined scores of columns 15, 16, and 17",0.021768905129996297,8.094660194174757,2.4728173922483214
+YouTube,18. How often do you feel depressed or down?,0.09326358716320293,3.2766990291262137,1.2945519810909991
+YouTube,"19. On a scale of 1 to 5, how frequently does your interest in daily activities fluctuate?",0.06864357268635635,3.179611650485437,1.2470438227209966
+YouTube,"'Depression' score, combined scores of columns 18 and 19",0.10782476266651952,6.456310679611651,2.1989701871695995
+YouTube,"20. On a scale of 1 to 5, how often do you face issues regarding sleep?",0.03478830798203414,3.2184466019417477,1.4433811150438238
+Snapchat,1. What is your age?,0.05410591899466688,22.76243093922652,6.862816992602958
+Snapchat,Number of different social media platforms used,0.00011427178586265185,5.895027624309392,1.5467047932520743
+Snapchat,9. How often do you find yourself using Social media without a specific purpose?,0.07744049771956452,3.723756906077348,1.0032759746135838
+Snapchat,10. How often do you get distracted by Social media when you are busy doing something?,0.08959792921479692,3.6022099447513813,1.2946108355763557
+Snapchat,11. Do you feel restless if you haven't used Social media in a while?,0.13999752035836388,2.7790055248618786,1.2419024369703529
+Snapchat,"'Addiction' score, combined scores of columns 9, 10, and 11",0.1694829513584043,10.104972375690608,2.748184257276808
+Snapchat,"12. On a scale of 1 to 5, how easily distracted are you?",0.07834214708043596,3.6077348066298343,1.1965631521931002
+Snapchat,"13. On a scale of 1 to 5, how much are you bothered by worries?",0.04838497610169279,3.839779005524862,1.1993404982403675
+Snapchat,14. Do you find it difficult to concentrate on things?,0.100814887071764,3.5138121546961325,1.2375690607734808
+Snapchat,"'Distractability' score, combined scores of columns 10, 12, and 14",0.12196734166035372,10.723756906077348,3.193733371304294
+Snapchat,"15. On a scale of 1-5, how often do you compare yourself to other successful people through the use of social media?",0.02851396945474105,3.0386740331491713,1.4465223714459718
+Snapchat,"16. Following the previous question, how do you feel about these comparisons, generally speaking?",8.141026099506288e-05,2.6408839779005526,1.1116098985927436
+Snapchat,17. How often do you look to seek validation from features of social media?,0.005430899102685127,2.591160220994475,1.2116968066000724
+Snapchat,"'Validation-Seeking' score, combined scores of columns 15, 16, and 17",0.016710417683512113,8.2707182320442,2.502744136627734
+Snapchat,18. How often do you feel depressed or down?,0.031261548291162455,3.5801104972375692,1.26597722346486
+Snapchat,"19. On a scale of 1 to 5, how frequently does your interest in daily activities fluctuate?",0.015080227888554787,3.3922651933701657,1.2148918767585506
+Snapchat,"'Depression' score, combined scores of columns 18 and 19",0.032336965562620446,6.972375690607735,2.0743925136881685
+Snapchat,"20. On a scale of 1 to 5, how often do you face issues regarding sleep?",0.03022455152129999,3.458563535911602,1.4042933901151848
+Discord,1. What is your age?,0.040472891076458684,22.80808080808081,7.037671744933096
+Discord,Number of different social media platforms used,0.012308425943981516,5.585858585858586,1.7809888355987225
+Discord,9. How often do you find yourself using Social media without a specific purpose?,0.11536562248398452,3.6717171717171717,1.0092041472949134
+Discord,10. How often do you get distracted by Social media when you are busy doing something?,0.0715651065277697,3.4292929292929295,1.2643321809110843
+Discord,11. Do you feel restless if you haven't used Social media in a while?,0.08077199016365444,2.5505050505050506,1.2411198704407143
+Discord,"'Addiction' score, combined scores of columns 9, 10, and 11",0.13332927237775272,9.651515151515152,2.8310637482649748
+Discord,"12. On a scale of 1 to 5, how easily distracted are you?",0.04032272336304532,3.4797979797979797,1.1621540256738168
+Discord,"13. On a scale of 1 to 5, how much are you bothered by worries?",0.039655180446976024,3.7525252525252526,1.1910307423237612
+Discord,14. Do you find it difficult to concentrate on things?,0.05526110404160056,3.404040404040404,1.2903620345413513
+Discord,"'Distractability' score, combined scores of columns 10, 12, and 14",0.07277955842619399,10.313131313131313,3.243163640166539
+Discord,"15. On a scale of 1-5, how often do you compare yourself to other successful people through the use of social media?",0.02454425159427831,2.787878787878788,1.4823727040769707
+Discord,"16. Following the previous question, how do you feel about these comparisons, generally speaking?",1.2497529058963508e-05,2.8484848484848486,1.0479767555024595
+Discord,17. How often do you look to seek validation from features of social media?,0.003275534893116494,2.378787878787879,1.2724566811917968
+Discord,"'Validation-Seeking' score, combined scores of columns 15, 16, and 17",0.013551659159843688,8.015151515151516,2.652380811071847
+Discord,18. How often do you feel depressed or down?,0.03772690450885374,3.409090909090909,1.3062855743812483
+Discord,"19. On a scale of 1 to 5, how frequently does your interest in daily activities fluctuate?",0.020089567994383106,3.1818181818181817,1.250160687559774
+Discord,"'Depression' score, combined scores of columns 18 and 19",0.04058783957587031,6.590909090909091,2.138941062891499
+Discord,"20. On a scale of 1 to 5, how often do you face issues regarding sleep?",0.013696313211247424,3.404040404040404,1.4278555788044773
+Reddit,1. What is your age?,0.058267457902572484,23.555555555555557,6.198509236489858
+Reddit,Number of different social media platforms used,0.11235659357753447,5.650793650793651,2.128109155205067
+Reddit,9. How often do you find yourself using Social media without a specific purpose?,0.17377719464079777,3.6825396825396823,1.0514600102653457
+Reddit,10. How often do you get distracted by Social media when you are busy doing something?,0.08995468702148557,3.1984126984126986,1.2849547040984683
+Reddit,11. Do you feel restless if you haven't used Social media in a while?,0.09932538864832874,2.380952380952381,1.1741740958036144
+Reddit,"'Addiction' score, combined scores of columns 9, 10, and 11",0.1759753034817837,9.261904761904763,2.8457112577277193
+Reddit,"12. On a scale of 1 to 5, how easily distracted are you?",0.03257489414207915,3.4285714285714284,1.184748124249974
+Reddit,"13. On a scale of 1 to 5, how much are you bothered by worries?",0.046150981014058234,3.7301587301587302,1.2176786294609947
+Reddit,14. Do you find it difficult to concentrate on things?,0.05317136403018796,3.3015873015873014,1.3408706083773254
+Reddit,"'Distractability' score, combined scores of columns 10, 12, and 14",0.07898774540965325,9.928571428571429,3.2322250713037644
+Reddit,"15. On a scale of 1-5, how often do you compare yourself to other successful people through the use of social media?",0.02084971025214455,2.5952380952380953,1.403954570267197
+Reddit,"16. Following the previous question, how do you feel about these comparisons, generally speaking?",0.0001848512421084303,2.761904761904762,0.987449588253701
+Reddit,17. How often do you look to seek validation from features of social media?,0.02745367435153312,2.1825396825396823,1.2686750597199643
+Reddit,"'Validation-Seeking' score, combined scores of columns 15, 16, and 17",0.026073159120823863,7.5396825396825395,2.4741546372569796
+Reddit,18. How often do you feel depressed or down?,0.04159886781232114,3.3174603174603177,1.3192758574717554
+Reddit,"19. On a scale of 1 to 5, how frequently does your interest in daily activities fluctuate?",0.012905177309787463,3.142857142857143,1.2892367972077032
+Reddit,"'Depression' score, combined scores of columns 18 and 19",0.039038788502102184,6.4603174603174605,2.1030997291254447
+Reddit,"20. On a scale of 1 to 5, how often do you face issues regarding sleep?",0.02081758554734181,3.2301587301587302,1.4755289523050545
+Pinterest,1. What is your age?,0.08904991561520004,24.56551724137931,8.476184724926776
+Pinterest,Number of different social media platforms used,0.028094528144164577,5.827586206896552,1.770816400795687
+Pinterest,9. How often do you find yourself using Social media without a specific purpose?,0.10494133792285809,3.6206896551724137,1.0443210334602417
+Pinterest,10. How often do you get distracted by Social media when you are busy doing something?,0.16220800394236246,3.3586206896551722,1.3373976896426858
+Pinterest,11. Do you feel restless if you haven't used Social media in a while?,0.14530436071906816,2.5724137931034483,1.2414942475526425
+Pinterest,"'Addiction' score, combined scores of columns 9, 10, and 11",0.21884517424456285,9.551724137931034,2.8861883573746443
+Pinterest,"12. On a scale of 1 to 5, how easily distracted are you?",0.1823032175016186,3.3517241379310345,1.1657824631921367
+Pinterest,"13. On a scale of 1 to 5, how much are you bothered by worries?",0.1281692473413134,3.7241379310344827,1.1713991552733123
+Pinterest,14. Do you find it difficult to concentrate on things?,0.16393625254136202,3.1724137931034484,1.3356895550224075
+Pinterest,"'Distractability' score, combined scores of columns 10, 12, and 14",0.23714286677230234,9.882758620689655,3.238781056947116
+Pinterest,"15. On a scale of 1-5, how often do you compare yourself to other successful people through the use of social media?",0.048446820072280516,2.8482758620689657,1.401137638678231
+Pinterest,"16. Following the previous question, how do you feel about these comparisons, generally speaking?",0.005038505030632745,2.786206896551724,1.0516732604991863
+Pinterest,17. How often do you look to seek validation from features of social media?,0.046017337529813296,2.496551724137931,1.20986826259798
+Pinterest,"'Validation-Seeking' score, combined scores of columns 15, 16, and 17",0.0678439682803823,8.13103448275862,2.4670383540168666
+Pinterest,18. How often do you feel depressed or down?,0.08285036741748786,3.386206896551724,1.3140419711795368
+Pinterest,"19. On a scale of 1 to 5, how frequently does your interest in daily activities fluctuate?",0.07207755549008366,3.2,1.2790082364728999
+Pinterest,"'Depression' score, combined scores of columns 18 and 19",0.11084471522101647,6.586206896551724,2.1674272271012986
+Pinterest,"20. On a scale of 1 to 5, how often do you face issues regarding sleep?",0.07846518205784836,3.413793103448276,1.4219278166680989
+TikTok,1. What is your age?,0.021439755220935885,23.670212765957448,7.94179396887708
+TikTok,Number of different social media platforms used,0.0030444024715678975,6.308510638297872,1.7626539211176728
+TikTok,9. How often do you find yourself using Social media without a specific purpose?,0.06309630362730889,3.8404255319148937,0.9260209028632186
+TikTok,10. How often do you get distracted by Social media when you are busy doing something?,0.09655907669510466,3.776595744680851,1.2560852332438996
+TikTok,11. Do you feel restless if you haven't used Social media in a while?,0.17793284374337925,3.021276595744681,1.1848217695596472
+TikTok,"'Addiction' score, combined scores of columns 9, 10, and 11",0.17534920808230003,10.638297872340425,2.6811043446715663
+TikTok,"12. On a scale of 1 to 5, how easily distracted are you?",0.07611914049694657,3.797872340425532,1.08745053430218
+TikTok,"13. On a scale of 1 to 5, how much are you bothered by worries?",0.010893377098702306,4.031914893617022,1.025754809360949
+TikTok,14. Do you find it difficult to concentrate on things?,0.07866422447386934,3.6595744680851063,1.0871903226418056
+TikTok,"'Distractability' score, combined scores of columns 10, 12, and 14",0.12237877914179074,11.23404255319149,2.8450237702888135
+TikTok,"15. On a scale of 1-5, how often do you compare yourself to other successful people through the use of social media?",0.0021210213635296515,3.404255319148936,1.3630312662167632
+TikTok,"16. Following the previous question, how do you feel about these comparisons, generally speaking?",0.00011760862463316979,2.8085106382978724,1.1418219459573395
+TikTok,17. How often do you look to seek validation from features of social media?,0.025518677952568014,2.8191489361702127,1.1105180500649887
+TikTok,"'Validation-Seeking' score, combined scores of columns 15, 16, and 17",0.011510357173631136,9.03191489361702,2.3540464377439063
+TikTok,18. How often do you feel depressed or down?,0.03078839875550554,3.723404255319149,1.161476090549462
+TikTok,"19. On a scale of 1 to 5, how frequently does your interest in daily activities fluctuate?",0.013917112316328306,3.5531914893617023,1.1356600974538311
+TikTok,"'Depression' score, combined scores of columns 18 and 19",0.032816209299792565,7.276595744680851,1.8645874298048206
+TikTok,"20. On a scale of 1 to 5, how often do you face issues regarding sleep?",0.003069179469250116,3.574468085106383,1.3721342414796789
